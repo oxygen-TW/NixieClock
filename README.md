@@ -1,5 +1,23 @@
-Nixie Clock
+Nixie Clock oxygen
 -----------
+
+> 開發緣起，在 COSCUP 2019 聽了 @yodalee 大大的演講後再加上同學的鼓勵，又覺得它超帥的啊啊啊啊啊，決定自己也來做一套，專案從大大那邊 Fork 過來。
+
+---
+<br/>
+
+## TODO
+- Buy nixie tubes
+- searching how to modify hardware
+- try to use ATmega328P without arduino board
+- rewrite firmware
+- and a lot else.....
+
+<br/>
+<br/>
+<br/>
+
+# Origin ReadME
 
 All data about my nixie tube implementation:
 
