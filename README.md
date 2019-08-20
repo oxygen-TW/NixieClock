@@ -1,5 +1,4 @@
-Nixie Clock oxygen
------------
+# Nixie Clock oxygen
 
 > 開發緣起，在 COSCUP 2019 聽了 @yodalee 大大的演講後再加上同學的鼓勵，又覺得它超帥的啊啊啊啊啊，決定自己也來做一套，專案從大大那邊 Fork 過來。
 
@@ -7,19 +6,11 @@ Nixie Clock oxygen
 <br/>
 
 ## TODO
-- Buy nixie tubes
-- searching how to modify hardware
-- try to use ATmega328P without arduino board
-- rewrite firmware
-- and a lot else.....
 
-<br/>
-<br/>
-<br/>
+- 將電路中 IN14 換成 IN12-A
+- 確認兩種不同nixie tube data sheet 腳位差異
 
-# Origin ReadME
-
-All data about my nixie tube implementation:
+---
 
 ## The Nixie Clock
 
