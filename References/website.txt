@@ -1,1 +1,4 @@
 http://www.tube-tester.com/sites/nixie/data/in-12a.htm
+https://www.slideshare.net/youtang5/build-yourself-a-nixie-tube-clock
+https://www.instructables.com/id/How-to-Control-a-Nixie-Tube-with-an-Arduino/
+https://www.ebay.com/itm/K155ID1-SN-74141-IC-Driver-for-Nixie-tubes-6pcs-per-lot-/352621483831

@@ -8,7 +8,19 @@
 ## TODO
 
 - 將電路中 IN14 換成 IN12-A
+- 打算直接使用 K155ID1
 - 確認兩種不同nixie tube data sheet 腳位差異
+- 硬體
+    - 高壓電模組
+    - 降壓模組
+    - 中央控制模組
+    - RTC 模組
+    - Nixie tube 控制模組
+
+- 韌體
+    - RTC校正
+    - 數字顯示
+    - Arduino 與 ATmega328 腳位定義
 
 ---
 
